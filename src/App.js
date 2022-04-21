@@ -8,6 +8,7 @@ function App() {
       <Animal name='shun' src='dog.png' color="red" />
       <Animal name='katu' src='cat.jpg' color="pink" />
       <Animal name='pix' src='elephant.jpg' />
+      <Animal name='pix' src='elephant.jpg' />
 
     </div>
   );
